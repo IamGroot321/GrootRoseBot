@@ -210,7 +210,7 @@ my news channel @Theszrosebot.
                 "Wow ! Owner has just joined your chat.",
             )
                return
-        if member.id == 1467358214:#for @supunma 
+        if member.id == 5027740392:#for @mynameisgroot 
                await app.send_message(
                 message.chat.id,
                 "Wow ! Developer has just joined your chat.",
