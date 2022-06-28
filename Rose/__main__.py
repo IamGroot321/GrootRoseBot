@@ -186,7 +186,7 @@ async def start(client, message: Message, _):
 I currently manage about `{len(served_chats)}` groups.I have over `{len(served_users)}` users
 
 ⚒ Send Me /help For Get Commands. 
-👨‍💻Dᴇᴠᴇʟᴏᴘᴇʀ : @supunma
+🌱Oᴡɴᴇʀ : @MyNameIsGroot
 """,
             reply_markup=home_keyboard_pm,
         )
@@ -278,7 +278,7 @@ You Protect Your Groups & Suit For All Your Needs.
 I currently manage about `{len(served_chats)}` groups.I have over `{len(served_users)}` users
 
  ⚒ Send Me /help For Get Commands. 
-👨‍💻Dᴇᴠᴇʟᴏᴘᴇʀ : @supunma
+🌱Oᴡɴᴇʀ : @MyNameIsGroot
 """,
             disable_web_page_preview=True,
             reply_markup=home_keyboard_pm)
