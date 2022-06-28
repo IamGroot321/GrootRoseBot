@@ -87,7 +87,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text=" 🌱 Add Me To Your Group 🌱 ",
+                text=" 🌱 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 🌱 ",
                 url=f"http://t.me/{BOT_USERNAME}?startgroup=new",
             )
         ],
@@ -96,21 +96,21 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 
             ),
             InlineKeyboardButton(
-                text="🇮🇳languages ", callback_data="_langs"
+                text="🇮🇳Lᴀɴɢᴜᴀɢᴇs", callback_data="_langs"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="😌How To Use Me", callback_data="bot_commands"
+                text="😌Hᴏᴡ ᴛᴏ Usᴇ Mᴇ", callback_data="bot_commands"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="🌱Sticker Packs",
+                text="🌱Sᴛɪᴄᴋᴇʀ Pᴀᴄᴋs",
                 url=f"https://t.me/groot_Network",
             ),
             InlineKeyboardButton(
-                text="🌱Funny Gifs",
+                text="🌱Fᴜɴɴʏ Gɪғs",
                 url=f"https://t.me/rjbr0",
             )
         ],
