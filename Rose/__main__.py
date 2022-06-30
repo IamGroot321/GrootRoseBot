@@ -291,10 +291,10 @@ async def help_parser(name, keyboard=None):
     return (
 """
 **Welcome to help menu**
-I'm a group management bot with some useful features.
-You can choose an option below, by clicking a button.
-If you have any bugs or questions on how to use me, 
-have a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), or head to @szteambots.
+💃  ɪᴀᴍ ᴀ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
+🙋‍♂️ ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏsᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ.
+😌 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ʙᴜɢs ᴀsᴋ ʜɪᴍ 🌱 @MyNameIsGroot, 
+🌱 @Groot_Network @RJbr0.
 **All commands can be used with the following: / **""",
         keyboard,
     )
